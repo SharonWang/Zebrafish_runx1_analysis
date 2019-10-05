@@ -9,7 +9,7 @@ Runx1 is a transcription factor that plays a key role in determining the prolife
 ## Notebooks
 - [All cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_allcells_analysis.ipynb): 
     * The overall analysis of all 3 samples, including Uninjured WT, Injured WT and Injured Runx1 KO
-- [DBpos cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_DBpos_analysis.ipynb) ($ (Runx1+ \cup Citrine+) \cap (Kdrl+ \cup mCherry+) $): 
+- [DBpos cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_DBpos_analysis.ipynb) ((Runx1+ \cup Citrine+) \cap (Kdrl+ \cup mCherry+)): 
     * Analysis of double positive cells for all 3 samples
 - [DBpos_no_KO cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_DBpos_noKO_analysis.ipynb): 
     * Analysis of double positive cells for Uninjured WT and Injured WT
