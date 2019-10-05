@@ -9,13 +9,13 @@ Runx1 is a transcription factor that plays a key role in determining the prolife
 ## Notebooks
 - [All cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_allcells_analysis.ipynb): 
     * The overall analysis of all 3 samples, including Uninjured WT, Injured WT and Injured Runx1 KO
-- [DBpos cells](https://nbviewer.jupyter.org/github/SharonWang/Zebrafish_runx1_analysis/notebooks/Zebrafish_DBpos_analysis.ipynb) ((Runx1+ \cup Citrine+) \cap (Kdrl+ \cup mCherry+)): 
+- [DBpos cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_DBpos_analysis.ipynb) ((Runx1+ \cup Citrine+) \cap (Kdrl+ \cup mCherry+)): 
     * Analysis of double positive cells for all 3 samples
-- [DBpos_no_KO cells](https://nbviewer.jupyter.org/github/SharonWang/Zebrafish_runx1_analysis/notebooks/Zebrafish_DBpos_noKO_analysis.ipynb): 
+- [DBpos_no_KO cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_DBpos_noKO_analysis.ipynb): 
     * Analysis of double positive cells for Uninjured WT and Injured WT
-- [CM cells](https://nbviewer.jupyter.org/github/SharonWang/Zebrafish_runx1_analysis/notebooks/Zebrafish_CM_analysis.ipynb):
+- [CM cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_CM_analysis.ipynb):
     * Analysis of cardiomyocytes for all 3 samples 
-- [EpiSMC cells](https://nbviewer.jupyter.org/github/SharonWang/Zebrafish_runx1_analysis/notebooks/Zebrafish_EpiSMC_analysis.ipynb):
+- [EpiSMC cells](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_EpiSMC_analysis.ipynb):
     * Analysis of Epicardial and smooth muscle cells for all 3 samples
-- [Additional plots](https://nbviewer.jupyter.org/github/SharonWang/Zebrafish_runx1_analysis/notebooks/Zebrafish_Additional_Plots.ipynb):
+- [Additional plots](https://github.com/SharonWang/Zebrafish_runx1_analysis/blob/master/Notebooks/Zebrafish_Additional_Plots.ipynb):
     * Dotplots and violinplots that require later version of scanpy
